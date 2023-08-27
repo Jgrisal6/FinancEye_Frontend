@@ -1,0 +1,15 @@
+{
+  "name": "financeye_frontend",
+  "version": "1.0.0",
+  "description": "Web application about personal finances",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "finance",
+    "personal"
+  ],
+  "author": "grisadev",
+  "license": "ISC"
+}
