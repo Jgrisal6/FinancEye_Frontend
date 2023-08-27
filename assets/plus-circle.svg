@@ -1,0 +1,68 @@
+<svg width="51" height="53" viewBox="0 0 51 53" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="51" height="53" fill="#1E1E1E"/>
+<g id="Mobile-Components">
+<rect width="470" height="1364" transform="translate(-212 -685)" fill="white"/>
+<g id="Footer">
+<g id="Footer=false, Plus=false, Trash=false, Search=true">
+<rect width="390" height="70" transform="translate(-182 -11)" fill="#8A39B0"/>
+<g id="plus-circle" clip-path="url(#clip0_26_24)" filter="url(#filter0_d_26_24)">
+<g id="Vector" filter="url(#filter1_d_26_24)">
+<path d="M25.5 44C36.5457 44 45.5 35.0457 45.5 24C45.5 12.9543 36.5457 4 25.5 4C14.4543 4 5.5 12.9543 5.5 24C5.5 35.0457 14.4543 44 25.5 44Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" shape-rendering="crispEdges"/>
+</g>
+<g id="Vector_2" filter="url(#filter2_d_26_24)">
+<path d="M25.5 16V32" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g id="Vector_3" filter="url(#filter3_d_26_24)">
+<path d="M17.5 24H33.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+<rect x="-201.5" y="-282.5" width="431" height="361" rx="4.5" stroke="#9747FF" stroke-dasharray="10 5"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_26_24" x="-2.5" y="0" width="56" height="56" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_26_24"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_26_24" result="shape"/>
+</filter>
+<filter id="filter1_d_26_24" x="0.5" y="3" width="50" height="50" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_26_24"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_26_24" result="shape"/>
+</filter>
+<filter id="filter2_d_26_24" x="20.5" y="15" width="10" height="26" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_26_24"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_26_24" result="shape"/>
+</filter>
+<filter id="filter3_d_26_24" x="12.5" y="23" width="26" height="10" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_26_24"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_26_24" result="shape"/>
+</filter>
+<clipPath id="clip0_26_24">
+<rect width="48" height="48" fill="white" transform="translate(1.5)"/>
+</clipPath>
+</defs>
+</svg>
