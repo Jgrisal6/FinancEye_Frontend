@@ -1,0 +1,27 @@
+/*
+1. Posicionamiento: Absolute, relative
+2. Modelo caja (Box-model): Margin, Padding, weight, height
+3. Tipografía
+4. Visuales
+5. Otros
+*/
+:root {
+    /* Colores */
+    --main: #8A39B0;
+    --light: #FCFCFC;
+    --light-main: #E4D3EC;
+    --alert: #F14C35;
+    --success: #58CF55;
+    --caution: #F8D65D;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html{
+    font-size: 62.5%;
+    font-family: 'Hind Madurai', sans-serif;
+    font-family: 'Inter', sans-serif;
+}
