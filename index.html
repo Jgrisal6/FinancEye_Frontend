@@ -3,26 +3,46 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@500;600;700&family=Inter&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="./styles.css">
+    <link rel="stylesheet" href="./css/main.css">
     <link rel="shortcut icon" href="./assets/icons/FinancEye-logos-Eye-white.svg">
     <title>FinancEye</title>
 </head>
 <body>
     <header>
-        <div class="right-header">
-            <img class="logo-financEye" src="./assets/icons/FinancEye-logos-Eye-white.svg" alt="logo-financEye">
+        <div class="header--left-container">
+            <a href=""><img class="logo-financEye" src="./assets/icons/FinancEye-logos-Eye-white.svg" alt="logo-financEye">
+            </a>
             <h1>FinancEye</h1>
         </div>
-        <div class="left-header">
+        <div class="header--right-container">
             <a href=""><img class="logo-table" src="./assets/icons/Table-history.svg" alt="logo-table-chart"></a>
             <a href=""><img class="logo-pie" src="./assets/icons/Pie-chart.svg" alt="logo.pie-chart"></a>
+            <a href=""><img class="logo-menu" src="./assets/icons/icon _menu_hamburger.svg" alt="menu-logo"></a>
         </div>
     </header>
     <main>
+        <div class="main-title">
+            <h2>EXPENSES</h2>
+        </div>
+        <div class="items-set">
+            <a href=""><img class="logo-filter" src="./assets/icons/Filter-icon.svg" alt="logo-filter"></a>
+            <a href=""><img class="logo-toggle" src="./assets/icons/Toggle-expenses.svg" alt="logo-toggle"></a>
+        </div>
+        <div class="total-set">
+            <button class="button1">Apply <br> Incomes</button>
+            <div class="result">Total: <br>
+                <span>$000</span>
+            </div>
+        </div>
     </main>
-    <footer></footer>
+    <footer>
+        <div class="footer--set-container">
+            <button><img class="logo-search" src="./assets/icons/search-icon.svg" alt="logo-search"></button>
+            <button><img class="logo-search" src="./assets/icons/plus-circle.svg" alt="logo-search"></button>
+            <button><img class="logo-trash" src="./assets/icons/trash.svg" alt="logo-search"></button>
+        </div>
+        
+    </footer>
 </body>
 </html>
