@@ -160,3 +160,10 @@ header {
     width: 35px;
     filter: var(--filter-light);
 }
+.expense-item {
+    display: flex;
+    justify-content: center;
+    gap: 32px;
+    .expense-form {
+    }
+}

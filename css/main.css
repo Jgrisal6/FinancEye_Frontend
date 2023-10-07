@@ -183,4 +183,10 @@ header {
 .footer--set-container button img {
   width: 35px;
   filter: var(--filter-light);
+}
+
+.expense-item {
+  display: flex;
+  justify-content: center;
+  gap: 32px;
 }/*# sourceMappingURL=main.css.map */
